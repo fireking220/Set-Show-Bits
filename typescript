@@ -1,0 +1,26 @@
+Script started on Mon 01 May 2017 08:21:29 PM PDT
+sip2@ada:~/CS201/A2$ exit[2Pls
+Makefile  setBits.c  showBits.c  typescript
+sip2@ada:~/CS201/A2$ lsexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBits[3P./setBitsmake setBits
+gcc -O0 -g setBits.c -o setBits
+sip2@ada:~/CS201/A2$ make setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBits[3P./setBits
+Too many or too few arguments! (1-16)
+sip2@ada:~/CS201/A2$ ./setBitsmake setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Too many or too few arguments! (1-16)
+sip2@ada:~/CS201/A2$ ./setBits 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 166[K
+Arguments too big or small (0-15)
+sip2@ada:~/CS201/A2$ ./setBits 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 13 8 14 15[K
+The decimal is 57608 and the binary is 1110000100001000
+sip2@ada:~/CS201/A2$ ./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBitsls[Kmake setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 166[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3 13 8 14 15[K[9Pmake showBits
+gcc -O0 -g showBits.c -o showBits
+sip2@ada:~/CS201/A2$ make showBits./setBits 3 13 8 14 150 1 2 3 4 5 6 7 8 9 10 11 12 13 14 165 16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmake setBitsls[Kexit[2Plsexit./showBits 0xFF[2Pmake showBits./showBits 0xFF
+Error: Please provide 2 hexadecimal values (ex. 0xFFFFFFFF 0xFFFFFFFF)
+sip2@ada:~/CS201/A2$ ./showBits 0xFF 0xFF [K[K[KC8 0x D76
+Error: Please provide 2 hexadecimal values (ex. 0xFFFFFFFF 0xFFFFFFFF)
+sip2@ada:~/CS201/A2$ ./showBits 0xFF 0xC8 0x D76[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttp://yugioh.wikia.com/wiki/Harpies%27_Huntin g_Ground[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K0xE0C874A3 0xD49157FF
+Bits turned on: 0,1,5,7,10,12,14,23,30,31,32, Hexadecimal: c08054a3, Signed: -1065331549, Unsigned: 3229635747
+sip2@ada:~/CS201/A2$ exit
+exit
+
+Script done on Mon 01 May 2017 08:23:32 PM PDT
